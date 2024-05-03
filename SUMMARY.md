@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [1 Executive Summary](README.md)
+* [CRAFT OA Deliverable D2.2 ](craft-oa-deliverable-d2.2.md)
