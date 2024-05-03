@@ -1,2 +1,3 @@
 # 6 Guidelines for Organizing Upskilling Trainings
 
+This chapter delivers practical information on the organisation of a training. It provides insights on the planning process, structure and workflow of a training. It focuses on instructor-led courses conducted live (online or offline) rather than self-paced courses without a fixed schedule. However, many recommendations can be applied in other didactic contexts as well. The guidelines can be seen as a starting point for the planning of a cohesive upskilling and can be extended, e.g. with the help of The Open Science Training Handbook (Bezjak et al. 2018)\[31] or the ADDIE Instructional Design (ID) method\[32].
