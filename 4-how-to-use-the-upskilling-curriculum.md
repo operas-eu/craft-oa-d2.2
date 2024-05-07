@@ -56,5 +56,5 @@ The attribution is not binding, in fact, some of the topics may be taught on bot
 
 Finally, chapter four (x.4) attempts to assign the existing training materials to the thematic blocks of the curriculum. Considering the interlocking of many topics and their scopes the assignment is not prescriptive but should be viewed as a recommendation. In the same vein, the learning material planned to be produced by CRAFT-OA is allocated to the curriculum sections. The reader is advised to keep in mind the existence of PKP Docs directory, containing the user guides, developer documentation and publishing tips for all of the Public Knowledge Project’s software topics[^18].
 
-[^17]: In fact the “Report on Standards for Best Publishing Practices and Basic Technical Requirements” (D3.1) was structured around the FAIR principles.
-[^18]: https://docs.pkp.sfu.ca/ 
+[^17]: [17] In fact the “Report on Standards for Best Publishing Practices and Basic Technical Requirements” (D3.1) was structured around the FAIR principles.
+[^18]: [18] https://docs.pkp.sfu.ca/ 
