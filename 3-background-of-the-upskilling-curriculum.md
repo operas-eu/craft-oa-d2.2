@@ -2,21 +2,21 @@
 
 The diversity of actors in the Open Access Diamond Journal (OADJ) landscape served both as a cause and a motivation for the creation of the Reusable Upskilling Curriculum, which presents a starting point for those involved in institutional Open Access (OA) publishing and wishing to expand their technical expertise. The curriculum was designed taking into account the current difficulties of the OADJ community in embracing the established technical standards. It provides a list of existing training material and offers general guidelines which may act as a first step for upskilling as well as inspiration for creating or delivering training.
 
-The CRAFT-OA deliverable D3.1 “[Report on Standards for Best Publishing Practices and Basic Technical Requirements in the Light of FAIR Principles](https://zenodo.org/doi/10.5281/zenodo.8112661)” (Armengou et al. 2023a) conducted an extensive review of the variety of technical standards. In their analysis the authors systematically examined the following documents\[3]:
+The CRAFT-OA deliverable D3.1 “[Report on Standards for Best Publishing Practices and Basic Technical Requirements in the Light of FAIR Principles](https://zenodo.org/doi/10.5281/zenodo.8112661)” (Armengou et al. 2023a) conducted an extensive review of the variety of technical standards. In their analysis the authors systematically examined the following documents[^3]:
 
-* the Directory of Open Access Journals (DOAJ) inclusion criteria\[4],
-* the Plan S requirements for publication venues\[5],
-* the OpenAIRE Guidelines for Literature Repository Managers v4\[6],
-* the Extensible Quality Standard for Institutional Publishing (EQSIP) V1.0\[7]
-* the EOSC Interoperability Framework Guidelines\[8].
+* the Directory of Open Access Journals (DOAJ) inclusion criteria\[^4],
+* the Plan S requirements for publication venues\[^5],
+* the OpenAIRE Guidelines for Literature Repository Managers v4\[^6],
+* the Extensible Quality Standard for Institutional Publishing (EQSIP) V1.0\[^7]
+* the EOSC Interoperability Framework Guidelines\[^8].
 
-Based on the standards outlined in the D3.1 report, the same working group published “[D3.2 Report on challenges and help measures faced by OA journals and platforms](https://zenodo.org/doi/10.5281/zenodo.10496593)”\[9] (Laakso et al. 2024). This document summarised the standards and requirements that the OADJ community has difficulties implementing in their publishing practices. The core components of the Reusable Upskilling Curriculum presented here are therefore based on the D3.2 study.
+Based on the standards outlined in the D3.1 report, the same working group published “[D3.2 Report on challenges and help measures faced by OA journals and platforms](https://zenodo.org/doi/10.5281/zenodo.10496593)”\[^9] (Laakso et al. 2024). This document summarised the standards and requirements that the OADJ community has difficulties implementing in their publishing practices. The core components of the Reusable Upskilling Curriculum presented here are therefore based on the D3.2 study.
 
-An additional resource that informed D3.2 were preliminary results of the 2023 DIAMAS survey (Armengou et al. 2023b) which was conducted between March and May 2023 and contains responses by 685 institutions involved in publishing within the European Research Area (ERA). In their synopsis of the report Arasteh and Blake (2024, p.5) fittingly dub the OADJ community “a largely fragmented archipelago”\[10]. Nevertheless, the authors provide a number of features that the community has in common: institutional publishers maintain high editorial standards and adhere to open science values; many are operating within a small budget and print a limited number of journals and publications; they dispose of restricted professionals hours and often rely on the work of volunteers (Arasteh & Blake, 2024, p. 7). This supports the findings of the Open Access Diamond Journal Study (OADJS) that showed a budget of below 10,000€ as the financial base for over 60% of the journals that were surveyed (Bosman et al., 2021, p. 110).
+An additional resource that informed D3.2 were preliminary results of the 2023 DIAMAS survey (Armengou et al. 2023b) which was conducted between March and May 2023 and contains responses by 685 institutions involved in publishing within the European Research Area (ERA). In their synopsis of the report Arasteh and Blake (2024, p.5) fittingly dub the OADJ community “a largely fragmented archipelago”\[^10]. Nevertheless, the authors provide a number of features that the community has in common: institutional publishers maintain high editorial standards and adhere to open science values; many are operating within a small budget and print a limited number of journals and publications; they dispose of restricted professionals hours and often rely on the work of volunteers (Arasteh & Blake, 2024, p. 7). This supports the findings of the Open Access Diamond Journal Study (OADJS) that showed a budget of below 10,000€ as the financial base for over 60% of the journals that were surveyed (Bosman et al., 2021, p. 110).
 
 With the limited resources of OADJs in mind, the Reusable Upskilling Curriculum is conceptualised to group the variety of challenges faced by OADJs into manageable modules. In this way, the users - both trainers and trainees - can select a topic and the level of complexity in accordance with their needs and resources. The curriculum offers trainers a comprehensive framework to organise training; it also allows the trainees to identify their upskilling needs more precisely. Recommendations on how to use the Reusable Upskilling Curriculum are provided in chapter 4.
 
-One overarching issue that influences the way in which OADJs work is the publishing software. Although no technical quality standard such as EQSIP or Plan S recommends a certain system, the use of a specifically designed software for journal publishing often enables OADJs to adhere to the standards in a fundamentally easier way. The DIAMAS survey responses to the question what software the institutional publishers utilise, show a gap in the implementation of specialised publishing systems, with 9.7% running on Wordpress and 7.5% unaware of the solution they use. (Laakso et al., 2024, p. 24). The compilation of standards supported by OJS, Janeway and Lodel carried out in D3.2 (Laakso et al. 2024) highlighted that many of the standards are covered by the respective publishing solutions. Hence, the upskilling curriculum is heralded by a section that specifically addresses publishing software solutions. It provides an introduction to the publishing systems and includes some of the topics for advanced use, such as the update and security features. The survey recently carried out in Task 4.4 of CRAFT-OA (“Simplification of installation and update procedures”) found out that two of the most frequently reported issues with OJS are updating (60%) and security concerns (46%)\[11]. Further advanced topics offered within this block are XML publishing workflows, which can be useful for those IPs who provide not only submission workflow but also layout, typesetting and annotation services.
+One overarching issue that influences the way in which OADJs work is the publishing software. Although no technical quality standard such as EQSIP or Plan S recommends a certain system, the use of a specifically designed software for journal publishing often enables OADJs to adhere to the standards in a fundamentally easier way. The DIAMAS survey responses to the question what software the institutional publishers utilise, show a gap in the implementation of specialised publishing systems, with 9.7% running on Wordpress and 7.5% unaware of the solution they use. (Laakso et al., 2024, p. 24). The compilation of standards supported by OJS, Janeway and Lodel carried out in D3.2 (Laakso et al. 2024) highlighted that many of the standards are covered by the respective publishing solutions. Hence, the upskilling curriculum is heralded by a section that specifically addresses publishing software solutions. It provides an introduction to the publishing systems and includes some of the topics for advanced use, such as the update and security features. The survey recently carried out in Task 4.4 of CRAFT-OA (“Simplification of installation and update procedures”) found out that two of the most frequently reported issues with OJS are updating (60%) and security concerns (46%)\[^11]. Further advanced topics offered within this block are XML publishing workflows, which can be useful for those IPs who provide not only submission workflow but also layout, typesetting and annotation services.
 
 Both Laakso et al. (2024) and Armengou et al. (2023b) found additional challenges in the field of metadata. High quality metadata and its provisioning in established formats significantly influence a journal’s findability and accessibility. The DIAMAS survey (Armengou et al. 2023b, p. 139) made clear that next to a lack of human resources, missing expertise is seen as a major obstacle by IPSPs in delivering quality metadata. In the Reusable Upskilling Curriculum this aspect is approached from three perspectives:
 
@@ -36,8 +36,23 @@ The OADJS underlines that “the biggest problem of small editors in OA is the l
 
 In addition to the resources cited above, the following documents contributed to the creation of the Reusable Upskilling Curriculum:
 
-* GoTriple Handbook\[12]
-* TRIPLE Deliverable: D2.5 - Report on Data Enrichment\[13]
-* Mapping the Landscape - Identifying categories of projects, axes on the map, and approaches and trends in OSS\[14]
-* Overview of the technical standards (a working document for D3.1 (Argmengou et al 2023a))\[15]
-* Diamas D3.2 “Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access”\[16]
+* GoTriple Handbook\[^12]
+* TRIPLE Deliverable: D2.5 - Report on Data Enrichment\[^13]
+* Mapping the Landscape - Identifying categories of projects, axes on the map, and approaches and trends in OSS\[^14]
+* Overview of the technical standards (a working document for D3.1 (Argmengou et al 2023a))\[^15]
+* Diamas D3.2 “Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access”\[^16]
+
+[3] The synopsis of the report is available in the CRAFT-OA Blog: https://www.craft-oa.eu/2024/02/expanding-the-potential-of-doajs/ 
+[4] https://doaj.org/apply/guide/
+[5] https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/
+[6] https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/ 
+[7] https://zenodo.org/records/7923916#.ZFy866DP02x; Note that V2.0 was published in February 2024 (Rico-Castro 2024): https://zenodo.org/doi/10.5281/zenodo.10726731.
+[8] https://wiki.eoscfuture.eu/display/PUBLIC/EOSC+IF+Guidelines+overview
+[9] https://zenodo.org/doi/10.5281/zenodo.10496594
+[10] https://zenodo.org/doi/10.5281/zenodo.10551710 
+[11] The survey is yet unpublished and not openly available. 
+[12] https://gotriple.eu/docs/gotriple-handbook-v1_0.pdf
+[13] https://zenodo.org/records/7359654
+[14] https://mindthegap.pubpub.org/pub/47c55bz4/release/2
+[15] https://docs.google.com/spreadsheets/d/1uTm84TeW-rZ3ouKpZPjQOPQCQ9XwSGan9Q0SV86VJr8/edit#gid=258275937
+[16] https://zenodo.org/records/10726732
