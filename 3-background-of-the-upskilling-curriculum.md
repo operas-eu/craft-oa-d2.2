@@ -42,17 +42,17 @@ In addition to the resources cited above, the following documents contributed to
 * Overview of the technical standards (a working document for D3.1 (Argmengou et al 2023a))\[^15]
 * Diamas D3.2 “Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access”\[^16]
 
-[3] The synopsis of the report is available in the CRAFT-OA Blog: https://www.craft-oa.eu/2024/02/expanding-the-potential-of-doajs/ 
-[4] https://doaj.org/apply/guide/
-[5] https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/
-[6] https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/ 
-[7] https://zenodo.org/records/7923916#.ZFy866DP02x; Note that V2.0 was published in February 2024 (Rico-Castro 2024): https://zenodo.org/doi/10.5281/zenodo.10726731.
-[8] https://wiki.eoscfuture.eu/display/PUBLIC/EOSC+IF+Guidelines+overview
-[9] https://zenodo.org/doi/10.5281/zenodo.10496594
-[10] https://zenodo.org/doi/10.5281/zenodo.10551710 
-[11] The survey is yet unpublished and not openly available. 
-[12] https://gotriple.eu/docs/gotriple-handbook-v1_0.pdf
-[13] https://zenodo.org/records/7359654
-[14] https://mindthegap.pubpub.org/pub/47c55bz4/release/2
-[15] https://docs.google.com/spreadsheets/d/1uTm84TeW-rZ3ouKpZPjQOPQCQ9XwSGan9Q0SV86VJr8/edit#gid=258275937
-[16] https://zenodo.org/records/10726732
+[3]: The synopsis of the report is available in the CRAFT-OA Blog: https://www.craft-oa.eu/2024/02/expanding-the-potential-of-doajs/ 
+[4]: https://doaj.org/apply/guide/
+[5]: https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/
+[6]: https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/ 
+[7]: https://zenodo.org/records/7923916#.ZFy866DP02x; Note that V2.0 was published in February 2024 (Rico-Castro 2024): https://zenodo.org/doi/10.5281/zenodo.10726731.
+[8]: https://wiki.eoscfuture.eu/display/PUBLIC/EOSC+IF+Guidelines+overview
+[9]: https://zenodo.org/doi/10.5281/zenodo.10496594
+[10]: https://zenodo.org/doi/10.5281/zenodo.10551710 
+[11]: The survey is yet unpublished and not openly available. 
+[12]: https://gotriple.eu/docs/gotriple-handbook-v1_0.pdf
+[13]: https://zenodo.org/records/7359654
+[14]: https://mindthegap.pubpub.org/pub/47c55bz4/release/2
+[15]: https://docs.google.com/spreadsheets/d/1uTm84TeW-rZ3ouKpZPjQOPQCQ9XwSGan9Q0SV86VJr8/edit#gid=258275937
+[16]: https://zenodo.org/records/10726732
