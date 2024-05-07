@@ -39,8 +39,8 @@ In addition to the resources cited above, the following documents contributed to
 * GoTriple Handbook[^12]
 * TRIPLE Deliverable: D2.5 - Report on Data Enrichment[^13]
 * Mapping the Landscape - Identifying categories of projects, axes on the map, and approaches and trends in OSS[^14]
-* Overview of the technical standards (a working document for D3.1 (Argmengou et al 2023a))[^15]
-* Diamas D3.2 “Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access”[^16]
+* Overview of the technical standards (a working document for D3.1[^15] (Argmengou et al 2023a))
+* Diamas D3.2 “Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access[^16]”
 
 [^3]: [3] The synopsis of the report is available in the CRAFT-OA Blog: https://www.craft-oa.eu/2024/02/expanding-the-potential-of-doajs/ 
 [^4]: [4] https://doaj.org/apply/guide/
