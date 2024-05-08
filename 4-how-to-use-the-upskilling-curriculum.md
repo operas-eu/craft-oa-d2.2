@@ -17,7 +17,7 @@ The third chapter (x.3, “Modules build-up”) takes on combining the topics in
 * The knowledge level of the audience
 * The type of the audience
 * The practical objective of the training
-* The theoretical framework used[^17] (e.g., FAIR principles)
+* The theoretical framework used[^1] (e.g., FAIR principles)
 * The publishing system the audience uses.
 * etc.
 
@@ -54,7 +54,8 @@ For example, the topics of the block “5.4 Metadata III: licensing, OA and self
 
 The attribution is not binding, in fact, some of the topics may be taught on both levels, and the upskilling itself might be built with another perspective in mind. D3.2, for instance, additionally mentions whether given technical requirements are supported by the publishing systems such as OJS, Janeway and Lodel. The publishing software thus presents another potential axis for the training curriculum. It is therefore recommended to use the check-list in chapter § 5.6 and combine the desired topics into required modules.
 
-Finally, chapter four (x.4) attempts to assign the existing training materials to the thematic blocks of the curriculum. Considering the interlocking of many topics and their scopes the assignment is not prescriptive but should be viewed as a recommendation. In the same vein, the learning material planned to be produced by CRAFT-OA is allocated to the curriculum sections. The reader is advised to keep in mind the existence of PKP Docs directory, containing the user guides, developer documentation and publishing tips for all of the Public Knowledge Project’s software topics[^18].
+Finally, chapter four (x.4) attempts to assign the existing training materials to the thematic blocks of the curriculum. Considering the interlocking of many topics and their scopes the assignment is not prescriptive but should be viewed as a recommendation. In the same vein, the learning material planned to be produced by CRAFT-OA is allocated to the curriculum sections. The reader is advised to keep in mind the existence of PKP Docs directory, containing the user guides, developer documentation and publishing tips for all of the Public Knowledge Project’s software topics[^2].
 
-[^17]: [17] In fact the “Report on Standards for Best Publishing Practices and Basic Technical Requirements” (D3.1) was structured around the FAIR principles.
-[^18]: [18] https://docs.pkp.sfu.ca/ 
+[^1]: \[17] In fact the “Report on Standards for Best Publishing Practices and Basic Technical Requirements” (D3.1) was structured around the FAIR principles.
+
+[^2]: \[18] https://docs.pkp.sfu.ca/

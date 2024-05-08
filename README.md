@@ -1,15 +1,17 @@
-|   |   | 
-| - | - | 
-| **Deliverable Title**                   | Reusable curriculum for upskilling trainings \[on Diamond OA standards and technologies]          
-| **Deliverable No.**                     | D2.2 
-| **Due Date**                            | 2024.03.31
-| **Submission Date**                     | 2024.04.04
-| **Version**                              | 1.0 - Final  
-| **Lead beneficiary**                    | 02\_OPERAS                                       
-| **Contributing WP**                     | WP2                                             
-| **Type**                                | DEC —Websites, patent filings, videos, etc.     
-| **The level of dissemination according to GA**| PU (Public)
-| <img src=".gitbook/assets/0.jpeg" alt="" data-size="original"> | <p>HORIZON-INFRA-2022-EOSC-01</p><p>Grant Agreement: 101094397</p>
+# Preamble
+
+|                                                                |                                                                                          |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Deliverable Title**                                          | Reusable curriculum for upskilling trainings \[on Diamond OA standards and technologies] |
+| **Deliverable No.**                                            | D2.2                                                                                     |
+| **Due Date**                                                   | 2024.03.31                                                                               |
+| **Submission Date**                                            | 2024.04.04                                                                               |
+| **Version**                                                    | 1.0 - Final                                                                              |
+| **Lead beneficiary**                                           | 02\_OPERAS                                                                               |
+| **Contributing WP**                                            | WP2                                                                                      |
+| **Type**                                                       | DEC —Websites, patent filings, videos, etc.                                              |
+| **The level of dissemination according to GA**                 | PU (Public)                                                                              |
+| <img src=".gitbook/assets/0.jpeg" alt="" data-size="original"> | <p>HORIZON-INFRA-2022-EOSC-01</p><p>Grant Agreement: 101094397</p>                       |
 
 | **Project Full Title** | Creating a Robust Accessible Federated Technology for Open Access                                                                                                                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

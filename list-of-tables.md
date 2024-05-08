@@ -1,6 +1,5 @@
 # List of Tables
 
-
 | **No. of table** | **Name**                                                                                                                 | **Page** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------ | -------- |
 | Table 1          | Modules for the training block “Publishing systems and their features”                                                   | 13       |

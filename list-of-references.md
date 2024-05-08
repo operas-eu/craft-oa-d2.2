@@ -1,6 +1,5 @@
 # List of References
 
-
 Alenitskaya, S. (ed.) (2017). _Handbook with Methods for Workshops_. Bundeszentrale für politische Bildung.
 
 Arasteh-Roodsary, S. L., & Blake, O. (2024). _The European landscape of institutional publishing—A synopsis of results from the DIAMAS survey_.[ https://doi.org/10.5281/ZENODO.10551710](https://doi.org/10.5281/ZENODO.10551710)
