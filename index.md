@@ -8,7 +8,7 @@
 | **Contributing WP**                     | WP2                                             
 | **Type**                                | DEC —Websites, patent filings, videos, etc.     
 | **The level of dissemination according to GA**| PU (Public)
-| <img src=".gitbook/assets/0.jpeg" alt="" data-size="original"> | <p>HORIZON-INFRA-2022-EOSC-01</p><p>Grant Agreement: 101094397</p>
+| <img src=".gitbook/assets/0.jpeg" alt="" data-size="original"> | HORIZON-INFRA-2022-EOSC-01Grant Agreement: 101094397
 
 | **Project Full Title** | Creating a Robust Accessible Federated Technology for Open Access                                                                                                                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -18,16 +18,16 @@
 | **End Date**           | 2025.12.31                                                                                                                                                                                                                                 |
 | **Duration**           | 36 Months                                                                                                                                                                                                                                  |
 | **Project Website**    | https://craft-oa.eu                                                                                                                                                                                                                        |
-| **Authors**            | <p>Maxim Kupreyev (https://orcid.org/0000-0002-8472-6954),</p><p>Jorina Fenner (https://orcid.org/0009-0001-0469-3110),</p><p>Lisa Müller (https://orcid.org/0009-0008-3029-1888)</p>                                                      |
+| **Authors**            | Maxim Kupreyev (https://orcid.org/0000-0002-8472-6954),Jorina Fenner (https://orcid.org/0009-0001-0469-3110),Lisa Müller (https://orcid.org/0009-0008-3029-1888)                                                      |
 | **Abstract**           | This deliverable provides the reusable curriculum for upskilling trainings developed within T2.2 and details the background of the curriculum, how to use the curriculum and recommendations for the organisation of upskilling trainings. |
 
 **Version and Revision History**
 
 | Version | Date       | Author/Reviewer/Contributors                                                        | Comments                                 |
 | ------- | ---------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
-| 0.1     | 19.03.2024 | <p>Authors:<br>Maxim Kupreyev (OPERAS), Jorina Fenner (TIB), Lisa Müller (UGOE)</p> | Version sent to reviewers                |
-| 0.2     | 25.03.2024 | <p>Reviewers:<br>Karla Avanço, Antti-Jussi Nygård, Margo Bargheer</p>               | Review                                   |
-| 0.3     | 03.04.2024 | <p>Authors:<br>Maxim Kupreyev (OPERAS), Jorina Fenner (TIB), Lisa Müller (UGOE)</p> | Final text, handed over for formal check |
+| 0.1     | 19.03.2024 | Authors:<br>Maxim Kupreyev (OPERAS), Jorina Fenner (TIB), Lisa Müller (UGOE) | Version sent to reviewers                |
+| 0.2     | 25.03.2024 | Reviewers:<br>Karla Avanço, Antti-Jussi Nygård, Margo Bargheer               | Review                                   |
+| 0.3     | 03.04.2024 | Authors:<br>Maxim Kupreyev (OPERAS), Jorina Fenner (TIB), Lisa Müller (UGOE) | Final text, handed over for formal check |
 | 0.4     | 05.04.2024 | Tabea Klaus (UGOE), Lisa Müller (UGOE)                                              | Final formal check                       |
 | 1.0     | xxxx.xx.xx |                                                                                     |                                          |
 
@@ -265,7 +265,7 @@ The schema for the audience types used in the curriculum derives from CRAFT-OA D
 
 | **Role**                                                                                                           | **Institutions**      |                                                                                                                           |                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p><p>● Software developers</p><p>● Technical professionals</p> | ● Diamond OA Journals | <p>● Institutional Publishing Service Providers (IPSPs)</p><p>● Institutional Publishing Technology Providers (IPTPs)</p> | <p>● Research libraries</p><p>● Publishing initiatives/projects in academia</p><p>● Research Infrastructures</p><p>● Research Performing Organisations (RPOs) / Funders</p><p>● Small and Medium Enterprises (SME) service providers in Diamond OA</p><p>● Policymakers</p> |
+| ● Editors● Reviewers● Researchers● Software developers● Technical professionals | ● Diamond OA Journals | ● Institutional Publishing Service Providers (IPSPs)● Institutional Publishing Technology Providers (IPTPs) | ● Research libraries● Publishing initiatives/projects in academia● Research Infrastructures● Research Performing Organisations (RPOs) / Funders● Small and Medium Enterprises (SME) service providers in Diamond OA● Policymakers |
 
 Table 1: Target audiences for upskilling training
 
@@ -273,11 +273,11 @@ For example, the topics of the block “5.4 Metadata III: licensing, OA and self
 
 | **Topic**                                                                                              | **Level**    | **Audience**                                                 | **F-A-I-R** |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------- |
-| Introduction to open access models: Green, Gold and Diamond OA                                         | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Introduction to license types: Creative Commons, MIT license, GNU                                      | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Journal’s self-archiving policy                                                                        | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Setting up the publishing system: Licenses and self-archiving policy in metadata.                      | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | A-R         |
-| Setting up the publishing system: Licenses and self-archiving policy in content data (XML, HTML, PDF). | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | A-R         |
+| Introduction to open access models: Green, Gold and Diamond OA                                         | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Introduction to license types: Creative Commons, MIT license, GNU                                      | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Journal’s self-archiving policy                                                                        | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Setting up the publishing system: Licenses and self-archiving policy in metadata.                      | Advanced     | ● Software developers● Technical professionals | A-R         |
+| Setting up the publishing system: Licenses and self-archiving policy in content data (XML, HTML, PDF). | Advanced     | ● Software developers● Technical professionals | A-R         |
 
 The attribution is not binding, in fact, some of the topics may be taught on both levels, and the upskilling itself might be built with another perspective in mind. D3.2, for instance, additionally mentions whether given technical requirements are supported by the publishing systems such as OJS, Janeway and Lodel. The publishing software thus presents another potential axis for the training curriculum. It is therefore recommended to use the check-list in chapter § 5.6 and combine the desired topics into required modules.
 
@@ -378,11 +378,11 @@ The goal of this training block is to provide an overview of the common metadata
 
 1. “Introduction to metadata” is conceptualised as a foundational level topic, which will introduce the existing metadata standards and compare them. It will focus on the common semantic fields, such as “Creator of the resource”, “Identifier of the resource”, “License”, etc., which all standards cover but provide different labels to them, e.g. :
 
-| **Description**                      | <p><strong>Dublin Core</strong></p><p><strong>Qualified Dublin Core</strong></p> | **OpenAire Format (JSON)** | **Europeana Data Model**                            | **TRIPLE data model** |
+| **Description**                      | <strong>Dublin Core</strong><strong>Qualified Dublin Core</strong> | **OpenAire Format (JSON)** | **Europeana Data Model**                            | **TRIPLE data model** |
 | ------------------------------------ | -------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------- | --------------------- |
-| <p>Creator of the</p><p>resource</p> | <p>dcterms:creator</p><p>dc:creator</p>                                          | author/fullname            | dc:creator                                          | schema:author         |
-| Identifier of the resource           | <p>dcterms:identifier</p><p>dc:identifier</p>                                    | id                         | dc:identifier                                       | schema:identifier     |
-| License                              | <p>dcterms:license OR</p><p>dcterms:rights,</p><p>dc:rights</p>                  | instance/license           | <p>odrl:inheritFrom</p><p>edm:rights, dc:rights</p> | schema:license        |
+| Creator of theresource | dcterms:creatordc:creator                                          | author/fullname            | dc:creator                                          | schema:author         |
+| Identifier of the resource           | dcterms:identifierdc:identifier                                    | id                         | dc:identifier                                       | schema:identifier     |
+| License                              | dcterms:license ORdcterms:rights,dc:rights                  | instance/license           | odrl:inheritFromedm:rights, dc:rights | schema:license        |
 
 Table 5: The comparison of metadata standards, based on “TRIPLE Deliverable: D2.5 - Report on Data Enrichment”\[21].
 
@@ -396,13 +396,13 @@ The comparison is substantiated by the fact that the mapping of data models is a
 
 | **Topic**                               | **Level**    | **Audience**                                                 | **F-A-I-R** |
 | --------------------------------------- | ------------ | ------------------------------------------------------------ | ----------- |
-| Introduction to metadata                | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | F-A-I-R     |
-| Metadata standards                      | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | F-A-I-R     |
-| Metadata harvesting: OAI-PMH            | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | F-A-I-R     |
-| Metadata depositing: SWORD              | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | F-A-I-R     |
-| Mass metadata export                    | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | F-A-I-R     |
-| Introduction to controlled vocabularies | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | F-A-I-R     |
-| COAR Resource Types Vocabulary          | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | F-A-I-R     |
+| Introduction to metadata                | Foundational | ● Editors● Reviewers● Researchers       | F-A-I-R     |
+| Metadata standards                      | Advanced     | ● Software developers● Technical professionals | F-A-I-R     |
+| Metadata harvesting: OAI-PMH            | Advanced     | ● Software developers● Technical professionals | F-A-I-R     |
+| Metadata depositing: SWORD              | Advanced     | ● Software developers● Technical professionals | F-A-I-R     |
+| Mass metadata export                    | Advanced     | ● Software developers● Technical professionals | F-A-I-R     |
+| Introduction to controlled vocabularies | Foundational | ● Editors● Reviewers● Researchers       | F-A-I-R     |
+| COAR Resource Types Vocabulary          | Advanced     | ● Software developers● Technical professionals | F-A-I-R     |
 
 Table 5: Modules for the training block “Metadata I: quality through standards”
 
@@ -414,7 +414,7 @@ Table 5: Modules for the training block “Metadata I: quality through standards
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | OA Journals Toolkit[ https://www.oajournals-toolkit.org/](https://www.oajournals-toolkit.org/)                                                                                                                             | DOAJ, OASPA      | The toolkit includes a variety of short articles about common issues in OA publishing. There is also a PDF version of the toolkit available. It may, e.g. act as a starting point and a resource for training.                                                                                               |
 | OA Journals Toolkit: Article and journal level metadata ([https://www.oajournals-toolkit.org/infrastructure/article-and-journal-metadata](https://www.oajournals-toolkit.org/infrastructure/article-and-journal-metadata)) | DOAJ, OASPA      | This article from the OA Journals Toolkit briefly introduces different metadata standards and typical examples of collected metadata.                                                                                                                                                                        |
-| <p>Metadata quality for publication: standards, practices, tools and actors</p><p>(<a href="https://doi.org/10.5281/zenodo.7464507">https://doi.org/10.5281/zenodo.7464507</a>)</p>                                        | OPERAS/CO-OPERAS | The slides are from two workshops organized jointly by CO-OPERAS, the OPERAS Special Interest Group on standards and FAIR principles and the OpenEdition Center. The trainings were proposed to OpenEdition's open access journal publishers who were newly integrated on OpenEdition's publishing platform. |
+| Metadata quality for publication: standards, practices, tools and actors(<a href="https://doi.org/10.5281/zenodo.7464507">https://doi.org/10.5281/zenodo.7464507</a>)                                        | OPERAS/CO-OPERAS | The slides are from two workshops organized jointly by CO-OPERAS, the OPERAS Special Interest Group on standards and FAIR principles and the OpenEdition Center. The trainings were proposed to OpenEdition's open access journal publishers who were newly integrated on OpenEdition's publishing platform. |
 
 Table 6: Existing materials for the training block “Metadata I: quality through standards”
 
@@ -461,8 +461,8 @@ The training block on identifiers is split into two parts:
 
 | **Topic**                                                     | **Level**               | **Audience**                                                                                                       | **F-A-I-R** |
 | ------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Introduction to identifiers: IDs, PIDs and metadata standards | Foundational            | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>                                                             | F           |
-| Identifier systems                                            | Foundational / Advanced | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p><p>● Software developers</p><p>● Technical professionals</p> | F           |
+| Introduction to identifiers: IDs, PIDs and metadata standards | Foundational            | ● Editors● Reviewers● Researchers                                                             | F           |
+| Identifier systems                                            | Foundational / Advanced | ● Editors● Reviewers● Researchers● Software developers● Technical professionals | F           |
 
 Table 8: Modules for for the training block “Metadata II: identifiers”
 
@@ -510,11 +510,11 @@ The second focus area singled out from the general “Metadata” complex is lic
 
 | **Topic**                                                                                              | **Level**    | **Audience**                                                 | **F-A-I-R** |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------- |
-| Introduction to open access models: Green, Gold and Diamond OA                                         | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Introduction to licence types: Creative Commons, MIT licence, GNU                                      | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Journal’s self-archiving policy                                                                        | Foundational | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>       | A-R         |
-| Setting up the publishing system: licences and self-archiving policy in metadata.                      | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | A-R         |
-| Setting up the publishing system: licences and self-archiving policy in content data (XML, HTML, PDF). | Advanced     | <p>● Software developers</p><p>● Technical professionals</p> | A-R         |
+| Introduction to open access models: Green, Gold and Diamond OA                                         | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Introduction to licence types: Creative Commons, MIT licence, GNU                                      | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Journal’s self-archiving policy                                                                        | Foundational | ● Editors● Reviewers● Researchers       | A-R         |
+| Setting up the publishing system: licences and self-archiving policy in metadata.                      | Advanced     | ● Software developers● Technical professionals | A-R         |
+| Setting up the publishing system: licences and self-archiving policy in content data (XML, HTML, PDF). | Advanced     | ● Software developers● Technical professionals | A-R         |
 
 Table 11: Modules for for the training block “Metadata III: copyright and licensing”
 
@@ -582,19 +582,19 @@ The section on content depositing and hosting services comprises introductions t
 
 | **Topic**                                                          | **Level**              | **Audience**                                                                                                       | **F-A-I-R** |
 | ------------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Content provisioning: XML                                          | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | F-A-I-R     |
-| Content provisioning: PDF                                          | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | F-A         |
-| Content provisioning: HTML                                         | Foundational/ Advanced | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p><p>● Software developers</p><p>● Technical professionals</p> | F-A         |
-| Content provisioning: citations                                    | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | F-A         |
-| Content provisioning: research data                                | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | F-A-R       |
-| Content provisioning: version control                              | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | R           |
-| Content harvesting and indexing: OAI-PMH                           | Advanced               | <p>● Software developers</p><p>● Technical professionals</p>                                                       | F-A-I       |
-| Content harvesting and indexing: indexing services                 | Foundational           | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>                                                             | F-A         |
-| Content harvesting and indexing: website optimization for indexing | Advanced               | <p>● Software developers</p><p>● Technical professional</p>                                                        | F-A         |
-| Content depositing: repositories and journal hosting services      | Foundational           | <p>● Editors</p><p>● Reviewers</p><p>● Researchers</p>                                                             | F-A-R       |
-| Content depositing: SWORD protocol                                 | Advanced               | <p>● Software developers</p><p>● Technical professional</p>                                                        | F-A-I       |
-| Content export                                                     | Advanced               | <p>● Software developers</p><p>● Technical professional</p>                                                        | F-A-I-R     |
-| Content long-term archiving                                        | Advanced               | <p>● Software developers</p><p>● Technical professional</p>                                                        | F-A-R       |
+| Content provisioning: XML                                          | Advanced               | ● Software developers● Technical professionals                                                       | F-A-I-R     |
+| Content provisioning: PDF                                          | Advanced               | ● Software developers● Technical professionals                                                       | F-A         |
+| Content provisioning: HTML                                         | Foundational/ Advanced | ● Editors● Reviewers● Researchers● Software developers● Technical professionals | F-A         |
+| Content provisioning: citations                                    | Advanced               | ● Software developers● Technical professionals                                                       | F-A         |
+| Content provisioning: research data                                | Advanced               | ● Software developers● Technical professionals                                                       | F-A-R       |
+| Content provisioning: version control                              | Advanced               | ● Software developers● Technical professionals                                                       | R           |
+| Content harvesting and indexing: OAI-PMH                           | Advanced               | ● Software developers● Technical professionals                                                       | F-A-I       |
+| Content harvesting and indexing: indexing services                 | Foundational           | ● Editors● Reviewers● Researchers                                                             | F-A         |
+| Content harvesting and indexing: website optimization for indexing | Advanced               | ● Software developers● Technical professional                                                        | F-A         |
+| Content depositing: repositories and journal hosting services      | Foundational           | ● Editors● Reviewers● Researchers                                                             | F-A-R       |
+| Content depositing: SWORD protocol                                 | Advanced               | ● Software developers● Technical professional                                                        | F-A-I       |
+| Content export                                                     | Advanced               | ● Software developers● Technical professional                                                        | F-A-I-R     |
+| Content long-term archiving                                        | Advanced               | ● Software developers● Technical professional                                                        | F-A-R       |
 
 Table 14: Modules for for the training block “Content accessibility”
 
@@ -604,7 +604,7 @@ Table 14: Modules for for the training block “Content accessibility”
 
 | **Title**                                                                                                                                                                                                                                                                           | **Creator** | **Comment**                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Project JASPER</p><p>Open access journals must be preserved forever (<a href="https://doaj.org/preservation/#open-access-journals-must-be-preserved-forever">https://doaj.org/preservation/#open-access-journals-must-be-preserved-forever</a>)</p>                              | DOAJ        | The project website outlines the importance of the digital preservation of OADJs and how they can become part of the project. It gives readers valuable insights into the important topics in this field as well as practical advice. |
+| Project JASPEROpen access journals must be preserved forever (<a href="https://doaj.org/preservation/#open-access-journals-must-be-preserved-forever">https://doaj.org/preservation/#open-access-journals-must-be-preserved-forever</a>)                              | DOAJ        | The project website outlines the importance of the digital preservation of OADJs and how they can become part of the project. It gives readers valuable insights into the important topics in this field as well as practical advice. |
 | OA Journals Toolkit: Journal and Article Indexing ([https://www.oajournals-toolkit.org/indexing/journal-and-article-indexing](https://www.oajournals-toolkit.org/indexing/journal-and-article-indexing))                                                                            | DOAJ, OASPA | In this article of the OA Journals Toolkit the topic of indexing and choosing the right index is discussed concisely.                                                                                                                 |
 | OA Journals Toolkit: Search engine optimisation and technical improvements ([https://www.oajournals-toolkit.org/indexing/search-engine-optimisation-and-technical-improvements](https://www.oajournals-toolkit.org/indexing/search-engine-optimisation-and-technical-improvements)) | DOAJ, OASPA | SEO and other technical improvements for better indexation are summarized in this article of the OA Journals Toolkit.                                                                                                                 |
 
