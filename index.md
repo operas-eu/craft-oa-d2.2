@@ -1,6 +1,5 @@
-|   |   | 
+| **Deliverable Title**                   | Reusable curriculum for upskilling trainings \[on Diamond OA standards and technologies]    | 
 | - | - | 
-| **Deliverable Title**                   | Reusable curriculum for upskilling trainings \[on Diamond OA standards and technologies]          
 | **Deliverable No.**                     | D2.2 
 | **Due Date**                            | 2024.03.31
 | **Submission Date**                     | 2024.04.04
